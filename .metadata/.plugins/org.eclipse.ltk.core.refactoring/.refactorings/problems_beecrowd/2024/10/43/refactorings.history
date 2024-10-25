@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;problems_beecrowd.bee1003ProdutoSimples&apos; to &apos;bee1004ProdutoSimples&apos;&#x0D;&#x0A;- Original project: &apos;problems_beecrowd&apos;&#x0D;&#x0A;- Original element: &apos;problems_beecrowd.bee1003ProdutoSimples&apos;&#x0D;&#x0A;- Renamed element: &apos;problems_beecrowd.bee1004ProdutoSimples&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;bee1003ProdutoSimples&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;problems_beecrowd{bee1003ProdutoSimples.java[bee1003ProdutoSimples" matchStrategy="1" name="bee1004ProdutoSimples" qualified="false" references="true" similarDeclarations="false" stamp="1729880805943" textual="false" version="1.0"/>
+</session>
